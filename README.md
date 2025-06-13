@@ -11,7 +11,7 @@ Feel free to contact me !
 
 ### 🧪 Competitive Platforms
 - **Sherlock**: [audits.sherlock.xyz/watson/x0t0wt1w](https://audits.sherlock.xyz/watson/x0t0wt1w)
-- **Cantina**: [[cantina.xyz/u/x0t0wt1w](https://cantina.xyz/u/x0t0wt1w)
+- **Cantina**: [cantina.xyz/u/x0t0wt1w](https://cantina.xyz/u/x0t0wt1w)
 
 ## 🏆 Competitive Audits
 
