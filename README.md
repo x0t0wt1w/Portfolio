@@ -1,5 +1,5 @@
 # About x0t0wt1w
-Independant Security Researcher in solidity. 
+Independant Security Researcher in Solidity. 
 Open to new engagements, whether full-time roles, private audits, or collaborative team audits and contests.
 Feel free to contact me !
 
