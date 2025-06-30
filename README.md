@@ -17,7 +17,7 @@ Feel free to contact me !
 
 | Contest name     | Platform   | Date      | Rank         | Findings     |
 |------------------|------------|-----------|--------------|--------------|
-| Mystic Finance   | Cantina    | May 2025  | Judging      | 1 Medium     |
+| Mystic Finance   | Cantina    | May 2025  | 88 / 522     | 1 Medium     |
 | Mighty Finance   | Cantina    | Apr 2025  | 78 / 629     | 1 High       |
 | Dria             | CodeHawks  | Oct 2024  | 106 / 118    | 1 High       |
 | Traitforge       | Code4rna   | Jul 2024  | 227 / 231    | 2 High       |
