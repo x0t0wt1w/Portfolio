@@ -28,4 +28,4 @@ Feel free to contact me !
 
 | Audited Company                                 | Date        | Report             |
 |-------------------------------------------------|-------------|--------------------|
-| [Kugle](https://kugle.app/) (ongoing)           | March 2025  | [report](https://github.com/x0t0wt1w/Portfolio/blob/main/Private_Audits/Kugle-2025.pdf)           |
+| [Kugle](https://kugle.app/)           | March 2025  | [report](https://github.com/x0t0wt1w/Portfolio/blob/main/Private_Audits/Kugle-2025.pdf)           |
