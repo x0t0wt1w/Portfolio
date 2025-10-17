@@ -8,6 +8,7 @@ Feel free to contact me !
 ### 🧑‍💻 Social Media
 - **X / Twitter**: [x0t0wt1w](https://x.com/x0t0wt1w)
 - **Discord**: x0t0wt1w_62610
+- **Telegram**: [x0t0wt1w](https://t.me/x0t0wt1w)
 
 ### 🧪 Competitive Platforms
 - **Sherlock**: [audits.sherlock.xyz/watson/x0t0wt1w](https://audits.sherlock.xyz/watson/x0t0wt1w)
