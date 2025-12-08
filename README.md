@@ -34,6 +34,13 @@ Feel free to contact me !
 | [Kugle](https://kugle.app/)           | March 2025  | [report](https://github.com/x0t0wt1w/Portfolio/blob/main/Private_Audits/Kugle-2025.pdf)           |
 
 
+## 🔬  Project
+
+[Web3 Smart-Contract Security CTF : Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
+Designed a full CTF environment with multiple intentionally vulnerable contracts, each showcasing real-world security issues encountered in audits. 
+Wrote exploit scripts using Foundry, documented vulnerabilities, designed mitigations and secure patterns.
+
+
 ## 🎓 Certifications
 
 [Blockchain Basics from Cyfrin Updraft](https://profiles.cyfrin.io/u/x0t0wt1w/certificates/blockchain-basics)
