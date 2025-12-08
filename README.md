@@ -37,6 +37,7 @@ Feel free to contact me !
 ## 🔬  Project
 
 [Web3 Smart-Contract Security CTF : Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
+
 Designed a full CTF environment with multiple intentionally vulnerable contracts, each showcasing real-world security issues encountered in audits. 
 Wrote exploit scripts using Foundry, documented vulnerabilities, designed mitigations and secure patterns.
 
