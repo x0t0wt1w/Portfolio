@@ -1,7 +1,10 @@
 # About x0t0wt1w
-Independant Security Researcher in Solidity. 
+Independant Security Researcher in Solidity.
+
 Open to new engagements: full-time roles, private audits, collaborative team audits, or security-oriented development work.
+
 Currently deepening expertise by learning Rust to expand into high-performance blockchain development ecosystems
+
 Feel free to contact me !
 
 ## 📬 Contact Informations
