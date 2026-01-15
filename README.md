@@ -22,6 +22,7 @@ Feel free to contact me !
 
 | Contest name                 | Platform   | Date      | Rank        | Findings                     |
 |------------------------------|------------|-----------|-------------|------------------------------|
+| AlignerZ                     | DualGuard  | Nov 2025  | 12 / 150    | 7 High, 3 Medium             |
 | Super DCA Liquidity Network  | Sherlock   | Oct 2025  | 48 / 523    | 1 High, 1 Medium             |
 | telcoin-network              | Cantina    | Jun 2025  | 42 / 687    | 1 High, 2 Medium, 1 Low      |
 | Mystic Finance               | Cantina    | May 2025  | 88 / 522    | 1 Medium                     |
