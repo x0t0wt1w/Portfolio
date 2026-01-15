@@ -1,17 +1,21 @@
 # About x0t0wt1w
-Independant Security Researcher in Solidity.
 
-Open to new engagements: full-time roles, private audits, collaborative team audits, or security-oriented development work.
 
-Currently deepening expertise by learning Rust to expand into high-performance blockchain development ecosystems
+Independent Blockchain Security Researcher specialized in Solidity and EVM-based protocols.
 
-Feel free to contact me !
+I focus on identifying high-impact vulnerabilities such as invariant violations, protocol-level accounting bugs, access control flaws, and fund-draining attack paths across DeFi systems.
+
+To date, I have reported 19 High-severity and 10 Medium-severity vulnerabilities across public audit contests and private engagements.
+
+I am learning Rust to extend my security expertise to non-EVM blockchain protocols.
+
+Open to full-time roles, private audits, and collaborative audit teams.
+
 
 ## 📬 Contact Informations
 
 ### 🧑‍💻 Social Media
 - **X / Twitter**: [x0t0wt1w](https://x.com/x0t0wt1w)
-- **Discord**: x0t0wt1w_62610
 - **Telegram**: [x0t0wt1w](https://t.me/x0t0wt1w)
 
 ### 🧪 Competitive Platforms
@@ -43,9 +47,13 @@ Feel free to contact me !
 
 [Web3 Smart-Contract Security CTF : Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
 
-Designed a full CTF environment with multiple intentionally vulnerable contracts, each showcasing real-world security issues encountered in audits.
+Designed and implemented a hands-on security CTF simulating real-world audit scenarios.
+Each challenge demonstrates a concrete vulnerability pattern observed in production protocols.
 
-Wrote exploit scripts using Foundry, documented vulnerabilities, designed mitigations and secure patterns.
+• Wrote exploit PoCs using Foundry
+• Documented root causes and attack paths
+• Proposed secure design patterns and mitigations
+
 
 
 ## 🎓 Certifications
