@@ -16,6 +16,7 @@ Open to full-time roles, private audits, and collaborative audit teams.
 
 ### 🧑‍💻 Social Media
 - **X / Twitter**: [x0t0wt1w](https://x.com/x0t0wt1w)
+- **Email**: [x0t0wt1w@gmail.com](x0t0wt1w@gmail.com)
 - **Telegram**: [x0t0wt1w](https://t.me/x0t0wt1w)
 
 ### 🧪 Competitive Platforms
@@ -51,12 +52,14 @@ Designed and implemented a hands-on security CTF simulating real-world audit sce
 Each challenge demonstrates a concrete vulnerability pattern observed in production protocols.
 
 • Wrote exploit PoCs using Foundry
+
 • Documented root causes and attack paths
+
 • Proposed secure design patterns and mitigations
 
 
 
-## 🎓 Certifications
+### 🎓 Certifications
 
 [Blockchain Basics from Cyfrin Updraft](https://profiles.cyfrin.io/u/x0t0wt1w/certificates/blockchain-basics)
 
