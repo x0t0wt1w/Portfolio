@@ -49,7 +49,7 @@ Open to full-time roles, private audits, and collaborative audit teams.
 In-depth analyses of real vulnerabilities discovered during audit contests and private reviews.
 These writeups focus on protocol-level reasoning, invariant violations, and adversarial behavior beyond surface-level bugs.
 
-- [Unbounded Vesting Flow Growth Enables Protocol-Level Denial of Service]([url](https://github.com/x0t0wt1w/Writeups/blob/main/unbounded-vesting-flow-growth-protocol-level-dos.md.md))
+- [Unbounded Vesting Flow Growth Enables Protocol-Level Denial of Service](https://github.com/x0t0wt1w/Writeups/blob/main/unbounded-vesting-flow-growth-protocol-level-dos.md.md)
   Medium — AlignerZ (DualGuard)
 
 
