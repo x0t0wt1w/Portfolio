@@ -44,6 +44,15 @@ Open to full-time roles, private audits, and collaborative audit teams.
 | [Kugle](https://kugle.app/)           | March 2025  | [report](https://github.com/x0t0wt1w/Portfolio/blob/main/Private_Audits/Kugle-2025.pdf)           |
 
 
+## 📝 Security Writeups
+
+In-depth analyses of real vulnerabilities discovered during audit contests and private reviews.
+These writeups focus on protocol-level reasoning, invariant violations, and adversarial behavior beyond surface-level bugs.
+
+- [Unbounded Vesting Flow Growth Enables Protocol-Level Denial of Service]([url](https://github.com/x0t0wt1w/Writeups/blob/main/unbounded-vesting-flow-growth-protocol-level-dos.md.md))
+  Medium — AlignerZ (DualGuard)
+
+
 ## 🔬  Project
 
 [Web3 Smart-Contract Security CTF : Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
