@@ -27,13 +27,13 @@ Open to full-time roles, private audits, and collaborative audit teams.
 
 | Contest name                 | Platform   | Date      | Rank        | Findings                     |
 |------------------------------|------------|-----------|-------------|------------------------------|
-| AlignerZ                     | DualGuard  | Nov 2025  | 12 / 150    | 7 High, 3 Medium             |
-| Super DCA Liquidity Network  | Sherlock   | Oct 2025  | 48 / 523    | 1 High, 1 Medium             |
-| telcoin-network              | Cantina    | Jun 2025  | 42 / 687    | 1 High, 2 Medium, 1 Low      |
-| Mystic Finance               | Cantina    | May 2025  | 88 / 522    | 1 Medium                     |
-| Mighty Finance               | Cantina    | Apr 2025  | 78 / 629    | 1 High                       |
-| Dria                         | CodeHawks  | Oct 2024  | 106 / 118   | 1 High                       |
-| Traitforge                   | Code4rena  | Jul 2024  | 227 / 231   | 2 High                       |
+| AlignerZ                     | DualGuard  | Nov 2025  |  12 / 150   | 7 High, 3 Medium             |
+| Super DCA Liquidity Network  | Sherlock   | Oct 2025  |  48 / 523   | 1 High, 1 Medium             |
+| telcoin-network              | Cantina    | Jun 2025  |  42 / 687   | 1 High, 2 Medium, 1 Low      |
+| Mystic Finance               | Cantina    | May 2025  |  88 / 522   | 1 Medium                     |
+| Mighty Finance               | Cantina    | Apr 2025  |  78 / 629   | 1 High                       |
+| Dria                         | CodeHawks  | Oct 2024  |      -      | 1 High                       |
+| Traitforge                   | Code4rena  | Jul 2024  |      -      | 2 High                       |
 
 
 
