@@ -27,6 +27,7 @@ Open to full-time roles, private audits, and collaborative audit teams.
 
 | Contest name                 | Platform   | Date      | Rank        | Findings                     |
 |------------------------------|------------|-----------|-------------|------------------------------|
+| Folks Finance                | Immunefi   | March 2026|      -      | 1 Low (single-issue contest) |
 | AlignerZ                     | DualGuard  | Nov 2025  |  12 / 150   | 7 High, 3 Medium             |
 | Super DCA Liquidity Network  | Sherlock   | Oct 2025  |      -      | 1 High, 1 Medium             |
 | telcoin-network              | Cantina    | Jun 2025  |      -      | 1 High, 2 Medium, 1 Low      |
