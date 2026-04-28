@@ -57,7 +57,7 @@ In-depth analyses of real vulnerabilities discovered during audits. Protocol-lev
  
 ### Published
  
-- **[Unbounded Vesting Flow Growth Enables Protocol-Level Denial of Service](#)**
+- **[Unbounded Vesting Flow Growth Enables Protocol-Level Denial of Service](https://github.com/x0t0wt1w/Writeups/blob/main/unbounded-vesting-flow-growth-protocol-level-dos.md.md)**
   `Medium` — AlignerZ / DualGuard (Nov 2025)
   Analysis of how uncapped vesting flow accumulation creates a permanent DoS vector against core protocol operations.
 ---
