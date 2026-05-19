@@ -67,6 +67,20 @@ In-depth analyses of real vulnerabilities discovered during audits. Protocol-lev
 ---
  
 ## 🔬 Project
+
+  ### [revmc: EVM Bytecode Disassembler](https://github.com/x0t0wt1w/revmc)
+
+  A Rust CLI tool that disassembles raw EVM bytecode and flags dangerous opcode patterns
+  used in real-world exploits.
+
+  - Detects DELEGATECALL, SELFDESTRUCT, CREATE2, and unchecked CALL return values (CALL + POP)
+  - Covers the full EVM Cancun opcode set
+  - JSON output for scripting and tooling integration
+  - 31 tests (unit + integration), cursor-based decoder
+
+  **Tools:** Rust, Cargo, clap, serde
+
+  ---
  
 ### [Web3 Smart-Contract Security CTF: Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
  
