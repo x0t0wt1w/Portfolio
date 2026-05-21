@@ -84,7 +84,7 @@ In-depth analyses of real vulnerabilities discovered during audits. Protocol-lev
  
 ### [Web3 Smart-Contract Security CTF: Vulnerability & Exploit Lab](https://github.com/x0t0wt1w/WEB3-SECURITY-CTF)
  
-A hands-on security CTF simulating real-world DeFi audit scenarios — built from patterns observed in production protocol audits.
+A hands-on security CTF simulating real-world DeFi audit scenarios: built from patterns observed in production protocol audits.
  
 - Challenges covering reentrancy, accounting invariant violations, fund-draining vectors, access control flaws
 - Full Foundry exploit PoCs with documented root causes and attack paths
