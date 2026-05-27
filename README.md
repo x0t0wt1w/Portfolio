@@ -53,7 +53,7 @@ Consistent top performer in recent contests. Currently expanding to Rust-based n
  
 ## 📝 Security Writeups
  
-In-depth analyses of real vulnerabilities discovered during audits. Protocol-level reasoning, invariant analysis, adversarial behavior — not surface-level summaries.
+In-depth analyses of real vulnerabilities discovered during audits. Protocol-level reasoning, invariant analysis, adversarial behavior.
  
 ### Published
  
